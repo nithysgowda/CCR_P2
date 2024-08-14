@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 4rem 2rem;
+}
+
+.container {
+    max-width: 960px;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
